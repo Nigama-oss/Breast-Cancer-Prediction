@@ -1,9 +1,8 @@
 # Breast-Cancer-Prediction
 **This is an ML model for detection of Breast Cancer.**
 
-                                                 WORKING DEMONSTATION
                                                 
-[](https://streamable.com/hscw8k)
+[Working Demonstration](https://streamable.com/hscw8k)
 
 
 To see the web app, clone this repo and run app.py file in the command prompt.
