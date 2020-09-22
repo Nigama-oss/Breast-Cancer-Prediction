@@ -1,7 +1,7 @@
 # Breast-Cancer-Prediction
 **This is an ML model for detection of Breast Cancer.**
 
-                                                WORKING DEMONSTATION
+                                                 WORKING DEMONSTATION
                                                 
 ![](https://streamable.com/hscw8k)
 
