@@ -1,11 +1,23 @@
 # Breast-Cancer-Prediction
-**This is an ML model for detection of Breast Cancer.**
+### This is an ML model for detection of Breast Cancer.
 
-                                                
-[Working Demonstration](https://streamable.com/hscw8k)
+## Features
 
+- Works with 98% accuracy.
+- Detects both malignant and benign type of tumors.
 
-To see the web app, clone this repo and run app.py file in the command prompt.
+## How to use?
 
+- clone this repo.
 
-You can open the local server on your browser to see the application.
+- Run `app.py` file
+
+- start your local server to use the application.
+
+- Input the required values and submit.
+
+## Screen Shots
+
+![alt text](https://i.imgur.com/RC5Dia0.png)
+
+![alt text](https://i.imgur.com/BYuIz5S.png)
